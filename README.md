@@ -12,9 +12,9 @@
 
 # 💫 About Me:
 👨‍💻 Passionate **Java Developer** specializing in **Spring Boot**, **RESTful APIs**, and **Microservices**.  
-💡 Currently building a **Job Portal App** with **ReactJS + Spring Boot**.  
-☁️ Exploring **Cloud & Docker** for scalable backend systems.  
-⚡ Love writing clean code and building real-world projects that make an impact.  
+💡 Currently building a **Job Portal App** using **ReactJS + Spring Boot**.  
+☁️ Exploring **Cloud**, **Docker**, and **Microservices Architecture**.  
+⚡ Love writing clean code and working on impactful real-world projects.  
 
 ---
 
@@ -32,7 +32,7 @@
 
 ---
 
-# 📊 GitHub Stats:
+# 📈 GitHub Analytics:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Raghvendra9695&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raghvendra9695&layout=compact&theme=tokyonight&hide_border=true" height="165" />
@@ -44,7 +44,7 @@
 
 ---
 
-# 🌐 Connect With Me:
+# 🌍 Connect With Me:
 <p align="center">
   <a href="https://www.linkedin.com/in/raghvendra9695">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
@@ -52,6 +52,20 @@
   <a href="mailto:raghvendrayadavsms@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
   </a>
+</p>
+
+---
+
+# 👁️ Profile Views:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Raghvendra9695&style=for-the-badge&color=blueviolet" />
+</p>
+
+---
+
+# 🐍 Contribution Graph Animation:
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Raghvendra9695/Raghvendra9695/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
